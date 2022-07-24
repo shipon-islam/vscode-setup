@@ -1,0 +1,13 @@
+1.auto close tag
+2.auto import
+3.auto rename tag
+4.bracket pair colorize
+5.color highlight
+6.ES7 +React/redux
+7.EsLint
+8.Learn with sumit
+9.live server
+10.material icon
+11.path autocomplate
+12.pretier
+13.tailwind css IntelliSense
